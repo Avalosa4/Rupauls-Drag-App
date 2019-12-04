@@ -7,7 +7,6 @@ let queen, season, image
 const $queenListElement = $("#queenlist");
 
 $("#season-list").on('click', 'button', handleClick);
-init();
 function handleClick() {
   season = this.dataset.id;
   getAPIData();
