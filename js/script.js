@@ -1,6 +1,6 @@
 
 
-const URL_ENDPOINT = "http://www.nokeynoshade.party/api/seasons/" 
+const URL_ENDPOINT = "https://www.nokeynoshade.party/api/seasons/" 
 
 let queen, season, image
 
